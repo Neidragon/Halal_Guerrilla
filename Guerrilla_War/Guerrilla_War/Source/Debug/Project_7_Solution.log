@@ -1,5 +1,0 @@
-﻿  ModuleParticles.cpp
-C:\Users\usuario\Desktop\guarrilla war\Project_7_Solution\Project_7_Solution\Source\Animation.h(54,19): warning C4244: 'inicializando': conversión de 'const float' a 'int'; posible pérdida de datos
-C:\Users\usuario\Desktop\guarrilla war\Project_7_Solution\Project_7_Solution\Source\Animation.h(56,30): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
-C:\Users\usuario\Desktop\guarrilla war\Project_7_Solution\Project_7_Solution\Source\Animation.h(67,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-  Project_7_Solution.vcxproj -> C:\Users\usuario\Desktop\guarrilla war\Project_7_Solution\Debug\Project_7_Solution.exe
