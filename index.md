@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# **Halal Games project 1: Guerrilla War**
 
-You can use the [editor on GitHub](https://github.com/Neidragon/Halal_Guerrilla/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Team Logo
+![halal games3](https://user-images.githubusercontent.com/99960719/156939600-8f5c3d33-6aaa-4b48-8e21-43449b0d05f7.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Team photo
+![IMG20220304124917](https://user-images.githubusercontent.com/99961049/156935031-2c02602d-13b8-476a-b2fc-f64ac1fd8916.jpg)
 
-### Markdown
+## Logo of the game
+![Guerrilla_War_Logo](https://user-images.githubusercontent.com/99961049/156935060-bc1aedb6-1516-403e-b973-c48197d096ed.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Description
+Guerrilla War is an arcade run and gun single-player/cooperative game released in 1987 in Japan named Guevara and released the same year in the US called Guerrilla War. It has five vertical scrolling levels, with a lot of enemies and vehicles and a boss at the end of each level that you will ned to defeat in order to go to the next level. At every new level, the difficulty increases a little and in the end, you have to defeat a final boss.
 
-```markdown
-Syntax highlighted code block
+The objective of the game is to defeat the tyranny of the king of the island (based in the Batista regime in Cuba), to do that you take paper as Che Guevara if you are player one or as Fidel Castro if you are player two and together you will have to take down the king.
 
-# Header 1
-## Header 2
-### Header 3
+![1988 guerilla 3](https://user-images.githubusercontent.com/99961049/156935678-a34900d2-3493-4dca-be91-619ed0dbc77c.png)
 
-- Bulleted
-- List
+## Members
+**Design:** Adrián Ponce
 
-1. Numbered
-2. List
+Github: [AdrianGPJ](https://github.com/AdrianGPJ)
 
-**Bold** and _Italic_ and `Code` text
+**Art:** Júlia Serra
 
-[Link](url) and ![Image](src)
-```
+Github: [softdrawss](https://github.com/softdrawss)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Code:** Hèctor Garcia
 
-### Jekyll Themes
+Github: [Neidragon](https://github.com/Neidragon)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neidragon/Halal_Guerrilla/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Management**: Pau Vivas
 
-### Support or Contact
+Github: [Paules23](https://github.com/Paules23)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Index
+
+- [Art](https://github.com/softdrawss/Halal_Guerrilla_War/wiki/Art)
+- [Audio](https://github.com/softdrawss/Halal_Guerrilla_War/wiki/Audio)
+- [Design](https://github.com/softdrawss/Halal_Guerrilla_War/wiki/Design)
+- [General analysis](https://github.com/softdrawss/Halal_Guerrilla_War/wiki/General-analysis)
+- [UI](https://github.com/softdrawss/Halal_Guerrilla_War/wiki/UI)
+- [External links](https://github.com/softdrawss/Halal_Guerrilla_War/wiki/External-links)
+
+
+
+
+
+
